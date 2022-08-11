@@ -1,13 +1,13 @@
 # react-native-share-menu
 
-[![npm version](https://badge.fury.io/js/react-native-share-menu.svg)](https://www.npmjs.com/package/react-native-share-menu)
+[![npm version](https://badge.fury.io/js/react-native-share-menu.svg)](https://www.npmjs.com/package/react-native-share-menu-v1)
 
 Add your app as a target for sharing from other apps and write iOS Share Extensions in React Native.
 
 ## Installation
 
 ```bash
-npm i --save react-native-share-menu
+npm i --save react-native-share-menu-v1
 ```
 
 ### Automatic Linking (React Native 0.60+)
